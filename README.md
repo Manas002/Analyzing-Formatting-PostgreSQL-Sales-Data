@@ -1,4 +1,4 @@
-# Analyzing-Formatting-PostgreSQL-Sales-Data
+# Analyzing & Formatting PostgreSQL Sales Data
 
 ![Project_Image](https://github.com/user-attachments/assets/92de57b7-e0ba-4e5d-8740-c011312b7109)
 
